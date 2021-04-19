@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T07:33:01.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="Cc9xdlXRiq_E5xaIx_t7" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T07:37:09.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="Bbaq06LYiEWEnoLm0ytu" version="14.4.4" type="github">
   <diagram id="yND1ezg2r0bC0WOIH1hr" name="Page-1">
     <mxGraphModel dx="1182" dy="821" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="ta3PRd_e8hcslhCjti0d-35" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="475" y="711" width="93" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="ta3PRd_e8hcslhCjti0d-36" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=1;fillColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ta3PRd_e8hcslhCjti0d-36" value="{.....}" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;shadow=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="485" y="721" width="93" height="47" as="geometry" />
         </mxCell>
         <mxCell id="ta3PRd_e8hcslhCjti0d-37" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -113,7 +113,7 @@
           <mxGeometry x="471.5" y="911" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ta3PRd_e8hcslhCjti0d-40" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;rounded=0;fillColor=#FF0000;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="18" y="911" width="100" height="20" as="geometry" />
+          <mxGeometry x="-179" y="911" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ta3PRd_e8hcslhCjti0d-42" value="Modules Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="257" y="950" width="40" height="20" as="geometry" />
@@ -122,19 +122,34 @@
           <mxGeometry x="508" y="950" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ta3PRd_e8hcslhCjti0d-44" value="Request Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="950" width="40" height="20" as="geometry" />
+          <mxGeometry x="-149" y="950" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ta3PRd_e8hcslhCjti0d-46" value="Future API endpoints for common consumption" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="707" y="982" width="87" height="204" as="geometry" />
+          <mxGeometry x="711.5" y="982" width="87" height="204" as="geometry" />
         </mxCell>
-        <mxCell id="ta3PRd_e8hcslhCjti0d-47" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ta3PRd_e8hcslhCjti0d-47" value="Provisioning Output" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="678" y="688" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ta3PRd_e8hcslhCjti0d-48" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;rounded=0;fillColor=#FF0000;direction=west;" vertex="1" parent="1">
           <mxGeometry x="705" y="911" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ta3PRd_e8hcslhCjti0d-49" value="Future API endpoints" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-169" y="884" width="80" height="80" as="geometry" />
+          <mxGeometry x="-172" y="1003" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ta3PRd_e8hcslhCjti0d-50" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="581" y="721" as="sourcePoint" />
+            <mxPoint x="673" y="721.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ta3PRd_e8hcslhCjti0d-51" value="Output Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="950" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ta3PRd_e8hcslhCjti0d-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;rounded=0;fillColor=#FF0000;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="24" y="909" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ta3PRd_e8hcslhCjti0d-54" value="Input Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="950" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
